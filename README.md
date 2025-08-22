@@ -80,5 +80,18 @@ To set up and run the project locally, follow these steps:
 
 ## **License**
 
-This project is licensed under the MIT License - see the LICENSE
-file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+
+---
+
+### **MIT License Summary**:
+
+The MIT License is a permissive open-source license that allows for the following:
+
+- **Usage**: You can use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+- **Attribution**: You must include the original copyright notice and license text in all copies or substantial portions of the Software.
+- **Warranty Disclaimer**: The software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+For more details, see the full license text in the [LICENSE](./LICENSE) file.
+
+---
