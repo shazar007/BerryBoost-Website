@@ -1,0 +1,30 @@
+.article-content a {
+  color: #14ccc3;
+  text-decoration: none;
+}
+.article-content a:hover {
+  text-decoration: underline;
+}
+.article-content strong {
+  font-size: 32px;
+  display: inline-block;
+  width: 100%;
+  padding: 16px 0;
+  margin: 0;
+  line-height: 1.2;
+}
+.article-content > ul {
+  margin-top: 16px;
+  list-style-type: disc;
+}
+.article-content ul.custom-bullets {
+  list-style-type: disc;
+}
+
+.article-content ol.custom-numbers {
+  list-style-type: decimal;
+}
+
+.article-content li {
+  line-height: 1.5;
+}
