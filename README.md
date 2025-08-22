@@ -68,7 +68,7 @@ To set up and run the project locally, follow these steps:
 
 ## **Screenshots**
 
-![Homepage](./public/assets/homepage.png)
+![Homepage](./public/assets/hoempage.png)
 
 ## **License**
 
