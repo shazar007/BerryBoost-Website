@@ -68,7 +68,15 @@ To set up and run the project locally, follow these steps:
 
 ## **Screenshots**
 
-![Homepage](./public/assets/hoempage.png)
+![Homepage](./public/assets/hoempage1.png)
+![Homepage](./public/assets/hoempage2.png)
+![Homepage](./public/assets/hoempage3.png)
+![Homepage](./public/assets/hoempage4.png)
+![Homepage](./public/assets/hoempage5.png)
+![Homepage](./public/assets/hoempage6.png)
+![Homepage](./public/assets/hoempage7.png)
+![Homepage](./public/assets/hoempage8.png)
+![Homepage](./public/assets/hoempage9.png)
 
 ## **License**
 
