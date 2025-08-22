@@ -54,15 +54,17 @@ To set up and run the project locally, follow these steps:
    npm run dev
    ```
 
-   BerryBoost-Website
-   ├── components/ # Reusable UI components (header, footer, etc.)
-   ├── app/ # Next.js pages (home, about, contact, etc.)
-   ├── public/ # Static assets (images, fonts, etc.)
-   ├── types/ # Tailwind CSS configuration and custom styles
-   ├── utils/ # Utility functions and hooks
-   ├── context/ # Context API files for global state management
-   ├── package.json # Project dependencies and scripts
-   └── next.config.js # Next.js configuration
+## **Folder Structure**
+
+- `BerryBoost-Website/`
+  - `components/` # Reusable UI components (header, footer, etc.)
+  - `pages/` # Next.js pages (home, about, contact, etc.)
+  - `public/` # Static assets (images, fonts, etc.)
+  - `styles/` # Tailwind CSS configuration and custom styles
+  - `utils/` # Utility functions and hooks
+  - `context/` # Context API files for global state management
+  - `package.json` # Project dependencies and scripts
+  - `next.config.js` # Next.js configuration
 
 ## **Screenshots**
 
