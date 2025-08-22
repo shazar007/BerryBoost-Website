@@ -64,11 +64,11 @@ To set up and run the project locally, follow these steps:
    ├── package.json # Project dependencies and scripts
    └── next.config.js # Next.js configuration
 
-**Screenshots**
+## **Screenshots**
 
 Screenshot of the homepage
 
-**License**
+## **License**
 
 This project is licensed under the MIT License - see the LICENSE
 file for details.
