@@ -49,4 +49,26 @@ To set up and run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/BerryBoost-Website.git
+   cd BerryBoost-Website
+   npm install
+   npm run dev
    ```
+
+   BerryBoost-Website
+   ├── components/ # Reusable UI components (header, footer, etc.)
+   ├── app/ # Next.js pages (home, about, contact, etc.)
+   ├── public/ # Static assets (images, fonts, etc.)
+   ├── types/ # Tailwind CSS configuration and custom styles
+   ├── utils/ # Utility functions and hooks
+   ├── context/ # Context API files for global state management
+   ├── package.json # Project dependencies and scripts
+   └── next.config.js # Next.js configuration
+
+**Screenshots**
+
+Screenshot of the homepage
+
+**License**
+
+This project is licensed under the MIT License - see the LICENSE
+file for details.
