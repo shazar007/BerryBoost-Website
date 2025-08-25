@@ -1,3 +1,7 @@
+# BerryBoost Website
+
+![BerryBoost Website Screenshot](https://raw.githubusercontent.com/shazar007/BerryBoost-Website/public/assets/hoempage1.png)
+
 # **BerryBoost Website**
 
 **BerryBoost** is a professional IT company website built with **Next.js**, **Node.js**, **Tailwind CSS**, and **Context API**. This project showcases a modern, responsive design for an IT company, featuring a clean UI, dynamic content, and smooth navigation.
