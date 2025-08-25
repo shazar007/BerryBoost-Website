@@ -1,6 +1,6 @@
 # BerryBoost Website
 
-![BerryBoost Website Screenshot](https://raw.githubusercontent.com/shazar007/BerryBoost-Website/main/public/assets/website.png)
+![Homepage](https://raw.githubusercontent.com/shazar007/BerryBoost-Website/main/public/assets/hoempage1.png)
 
 # **BerryBoost Website**
 
